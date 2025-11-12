@@ -1,5 +1,5 @@
 
-# Práctica 6 – Ampliación de estilos en HTML5
+# Práctica 6 – Modificación de estilos y RETO
 
 En esta práctica continuaremos el trabajo iniciado en la **Práctica 5**, mejorando el diseño visual de nuestra página mediante nuevas propiedades CSS y pequeños ajustes estructurales en el código HTML.
 
@@ -18,6 +18,13 @@ o, en el caso del documento HTML:
 ```
 
 No debes añadir explicaciones dentro de los comentarios, únicamente tus iniciales, el guión y el número de solución propuesto.
+
+Para que trabajéis con la misma versión HTML de dónde yo he partido para generar estas modificaciones, se adjuntan en este repositorio los archivos solucionados de la práctica 5:
+
+* [practica5_solucion.html](practica5_solucion.html)
+* [practica5_estilo1.css](practica5_estilo1.css)
+
+**Simplemente tenéis que actualizar el nombre de las imágenes con las vuestras dentro del fichero HTML.**
 
 ---
 
